@@ -16,6 +16,13 @@
                     </Collection>
                 </Annotation>
             </Annotations>
+            <Annotations Target="NorthwindModel.Region">
+                <Annotation Term="UI.SelectionFields">
+                    <Collection>
+                        <PropertyPath>Territories/TerritoryDescription</PropertyPath>
+                    </Collection>
+                </Annotation>
+            </Annotations>
         </Schema>
     </edmx:DataServices>
 </edmx:Edmx>
