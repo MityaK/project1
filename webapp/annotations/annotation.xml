@@ -14,7 +14,8 @@
                         <PropertyPath>SupplierID</PropertyPath>
                         <PropertyPath>Discontinued</PropertyPath>
                         --
-                        <PropertyPath>ProductID</PropertyPath>
+                     !  <!-- Just new test comment -->
+                     <PropertyPath>ProductID</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
